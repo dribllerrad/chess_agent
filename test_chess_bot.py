@@ -18,7 +18,7 @@ def test_chess_board_size():
 
 def test_chess_piece_king():
     assert query_and_validate(
-        question="Is the King a chess piece?  Answer yes or no",
+        question="Is the Bishop a chess piece?  Answer yes or no",
         expected_response="yes",
     )
 
