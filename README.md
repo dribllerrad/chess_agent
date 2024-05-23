@@ -85,7 +85,7 @@ The tests will again use the llms to generate a response to some precofigured qu
 
 ```
 QUESTION: How many squares are on a chess board?  ANSWER: 64
-QUESTION: Is the King a chess piece?  ANSWER: Yes
+QUESTION: Is the Bishop a chess piece?  ANSWER: Yes
 QUESTION: Is the Pope a chess piece?  ANSWER: No
 ```
 
